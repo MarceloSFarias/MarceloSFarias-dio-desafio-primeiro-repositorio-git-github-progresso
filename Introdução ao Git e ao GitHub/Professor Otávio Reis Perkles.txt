@@ -1,0 +1,25 @@
+Introdução ao Git e ao GitHub
+
+Entendendo o que é Git e sua importância
+
+Comandos básicos para um bom desempenho no terminal
+
+Realizando a instalação do GIT
+
+Tópicos fundamentais para entender o funcionamento do Git
+
+Objetos internos do Git
+
+Chave SSH e Token
+
+Iniciando o Git e criando um commit
+
+Passo a passo no ciclo de vida
+
+Trabalhando com o GitHub
+
+Como os conflitos acontecem no GitHub e como resolvê-los
+
+Link para material completo:
+https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/4895182a-ae5a-44e3-8f12-daa9861ab035?back=/track/quebec-java-digital&tab=undefined&moduleId=undefined
+

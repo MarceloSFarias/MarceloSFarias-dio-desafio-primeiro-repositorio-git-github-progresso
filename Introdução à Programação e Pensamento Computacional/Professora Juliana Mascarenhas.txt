@@ -1,0 +1,39 @@
+Primeiros passos para
+começar a programar
+Curso base para iniciante
+
+Juliana Mascarenhas
+Tech Education Specialist / Sócia (Content Creator) @SimplificandoRedes
+Me Modelagem Computacional / Cientista de dados
+@in/juliana-mascarenhas-ds/
+
+
+Objetivo Geral
+
+Você será capaz de entender o que significa pensar computacionalmente.
+
+Pensamento aplicável à qualquer área do conhecimento.
+
+Dessa forma, será capaz de resolver qualquer problema de uma maneria mais objetiva e eficiente.
+
+
+Percurso
+
+Aula 1 
+Pensamento Computacional
+
+Aula 2 
+Introdução à lógica da programação
+
+Aula 3 
+Fundamentos de Algoritmos
+
+Aula 4
+Linguagens de programação
+
+Aula 5
+Primeiro contato com a programação
+
+link para acesso ao conteudo:
+https://drive.google.com/file/d/1vemC6G790JNte1882V53DAKEawJzVIWL/view
+
